@@ -5,4 +5,8 @@ public class Teste1 {
 	public static void main(String ar[]) {
 		System.out.println("teste");
 	}
+	
+	public void falar() {
+		
+	}
 }
